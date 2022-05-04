@@ -1,6 +1,6 @@
 {
   "name": "passport-discourse",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edhemphill/passport-discourse.git"
+    "url": "git+https://github.com/markus-li/passport-discourse.git"
   },
-  "author": "Ed Hemphill <npm@wigwag.com> (http://www.wigwag.com/)",
+  "author": "Markus Liljergren <markus@oh-lalabs.com> (http://www.oh-lalabs.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edhemphill/passport-discourse/issues"
+    "url": "https://github.com/markus-li/passport-discourse/issues"
   },
-  "homepage": "https://github.com/edhemphill/passport-discourse#readme",
+  "homepage": "https://github.com/markus-li/passport-discourse#readme",
   "dependencies": {
     "passport-strategy": "^1.0.0"
   }
